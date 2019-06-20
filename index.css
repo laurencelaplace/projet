@@ -14,5 +14,13 @@ img{
 
 }
 .centre{
-	text-align: center;
+	display: inline;}
+
+.footer{
+bottom: 0;
+color: #000000;
+background: #868686;
+width: 100%;
+position: absolute;
+height: 100px;
 }
